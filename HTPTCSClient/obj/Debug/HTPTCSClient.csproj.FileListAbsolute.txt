@@ -1,0 +1,195 @@
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe.config
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.pdb
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.AssemblyReference.cache
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.Properties.Resources.resources
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.GenerateResource.cache
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.CoreCompileInputs.cache
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.exe
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.pdb
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.MainForm.resources
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.dll
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.xml
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.dll
+D:\Study\N4-HK1\HeThongPhanTan\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.xml
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe.config
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.pdb
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.dll
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.dll
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.xml
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.xml
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.AssemblyReference.cache
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.MainForm.resources
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.Properties.Resources.resources
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.GenerateResource.cache
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.CoreCompileInputs.cache
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.exe
+D:\Study\N4-HK1\HeThongPhanTan\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.pdb
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe.config
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.exe
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\HTPTCSClient.pdb
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\RestSharp.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.AssemblyReference.cache
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.MainForm.resources
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.Properties.Resources.resources
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.GenerateResource.cache
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.CoreCompileInputs.cache
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.csproj.CopyComplete
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.exe
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.pdb
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.Licensing.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Data.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Guna.UI2.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Data.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.exe.licenses
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\bin\Debug\Guna.UI.dll
+D:\CNTT\2021\HK1N4\HT PT\Project\HTPTCSClient\HTPTCSClient\obj\Debug\HTPTCSClient.View.IPInputDialog.resources
